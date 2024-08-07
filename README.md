@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lavanya Paruchuri</h1>
-<h3 align="center">A passionate and Aspiring Engineer in Internet of Things from India.</h3>
+<h3 align="center">A passionate and Aspiring Engineer.</h3>
 
 
 - 🔭 I’m currently working on **App development**
 
-- 🌱 I’m currently learning **web development**
-
-- 💬 Ask me about **python, java, Internet of Things (IoT), RaspberryPi,Arduino,Data structures**
+- 💬 Ask me about **python, java,Data structures, Internet of Things (IoT), RaspberryPi,Arduino**
 
 - 📫 How to reach me **lavanyaparuchuri20@gmail.com**
 
