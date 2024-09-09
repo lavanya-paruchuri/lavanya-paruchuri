@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and Aspiring Engineer.</h3>
 
 
-- 🔭 I’m currently working on **App development**
+- 🔭 I’m currently working on **CommandNest An Autonomous Voice-Controlled offline Automation System**
 
 - 💬 Ask me about **python, java,Data structures, Internet of Things (IoT), RaspberryPi,Arduino**
 
